@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-11-13)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
+-   [`347914d`](https://github.com/stdlib-js/stdlib/commit/347914dc5de466218b40f73e5302d8439f7ba20f) - **test:** update descriptions _(by Athan Reines)_
 -   [`1cb42a1`](https://github.com/stdlib-js/stdlib/commit/1cb42a1905d6fc02127d02b5c8bc2777b2969dd1) - **feat:** add `stats/base/ndarray/range-by` [(#8497)](https://github.com/stdlib-js/stdlib/pull/8497) _(by Pratik, Athan Reines)_
 
 </details>
