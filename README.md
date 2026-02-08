@@ -50,7 +50,7 @@ The [**range**][range] is defined as the difference between the maximum and mini
 ## Usage
 
 ```javascript
-import rangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-range-by@esm/index.mjs';
+import rangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-range-by@v0.1.1-esm/index.mjs';
 ```
 
 #### rangeBy( arrays, clbk\[, thisArg ] )
@@ -137,7 +137,7 @@ var count = ctx.count;
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import rangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-range-by@esm/index.mjs';
+import rangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-range-by@v0.1.1-esm/index.mjs';
 
 function clbk( value ) {
     return value * 2.0;
